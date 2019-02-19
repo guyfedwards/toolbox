@@ -5,6 +5,7 @@ a specific need.
 ## Web
 - https://regex101.com/ - Regular expressions playground
 - https://httpstatuses.com/ - HTTP codes
+- https://jsonformatter.curiousconcept.com/ - JSON prettifier
 
 ## CLI
 - https://hisham.hm/htop/ - Interactive process monitor
