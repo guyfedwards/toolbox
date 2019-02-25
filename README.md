@@ -14,6 +14,10 @@ a specific need.
 - https://github.com/junegunn/fzf - Fuzzy finder
 - https://github.com/ggreer/the_silver_searcher - Faster ack/grep
 - https://github.com/tmux/tmux - Terminal Multiplexer
+- https://www.npmjs.com/package/package-size - See package sizes
 
 ## Standalone
 - https://www.getpostman.com/ - API Development Environment
+
+## Infra
+- https://cloudcraft.co/ - Visual cloud infra with estimated budget
