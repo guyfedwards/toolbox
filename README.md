@@ -21,3 +21,6 @@ a specific need.
 
 ## Infra
 - https://cloudcraft.co/ - Visual cloud infra with estimated budget
+
+## Design
+- https://www.photopea.com/ - Photoshop in the browser
